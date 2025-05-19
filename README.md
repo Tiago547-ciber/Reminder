@@ -4,7 +4,7 @@ Bloco de notas simoles utilizando Javascript, HTML e CSS.
 
 #INSTALAÇÃO
 
-Apenas baise o arquivo e rode no navegador...MEU CHAAAPAA
+Apenas baixe o arquivo e rode no navegador...MEU CHAAAPAA
 
 ![Meme](meme.jpeg)
 
