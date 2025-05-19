@@ -6,4 +6,4 @@ Bloco de notas simoles utilizando Javascript, HTML e CSS.
 
 Apenas baise o arquivo e rode no navegador...MEU CHAAAPAA
 
-![Reminder](images(4).jpeg)
+![image(4)](images(4).jpeg)
