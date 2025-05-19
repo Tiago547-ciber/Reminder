@@ -1,8 +1,8 @@
 #DESCRIÇÃO.
 
-Bloco de notas simoles utilizando Javascript, HTML e CSS.
+Bloco de notas simples utilizando Javascript, HTML e CSS.
 
-#INSTALAÇÃO
+#INSTALAÇÃO.
 
 Apenas baixe o arquivo e rode no navegador...MEU CHAAAPAA!
 
