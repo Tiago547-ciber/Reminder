@@ -6,5 +6,5 @@ Bloco de notas simples utilizando Javascript, HTML e CSS.
 
 Apenas baixe o arquivo e rode no navegador...MEU CHAAAPAA!
 
-![Meme](meme.jpeg)
+![Meme](imagem/meme.jpeg)
 
