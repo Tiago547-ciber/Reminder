@@ -2,9 +2,10 @@
 
 Bloco de notas simples utilizando Javascript, HTML e CSS.
 
-#INSTALAÇÃO.
+#LINK PARA ACESSO
 
-Apenas baixe o arquivo e rode no navegador...MEU CHAAAPAA!
 
+Apenas CLICK NO LINK...MEU CHAAAPAA!
+https://tiago547-ciber.github.io/Reminder/
 ![Meme](imagem/meme.jpeg)
 
